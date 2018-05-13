@@ -1,0 +1,17 @@
+.AllNavBar{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    flex-flow: row wrap;
+    background: white;
+}
+
+.itemColor {
+    background:#337ab7;
+}
+
+.carFinish {
+    text-align: center;
+}
+
